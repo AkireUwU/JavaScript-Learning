@@ -1,0 +1,19 @@
+in javascript tenemos 5 diferentes tipos de datos que pueden contener valores:
+-string
+-number
+-boolean
+-object 
+-function
+
+existen 6 tipos de objetos:
+-object
+-Date
+-Array
+-Strings
+-Numbers
+-boolean
+
+y dos data types que no contienen valores
+-null
+-undefined
+

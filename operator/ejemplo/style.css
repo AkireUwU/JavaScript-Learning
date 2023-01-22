@@ -1,0 +1,14 @@
+.titulo{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.texto1{
+    position: static;
+    margin-bottom: 50px;
+}
+#nombre{
+    color: red;
+}
+#demo{
+    color: red;
+}
